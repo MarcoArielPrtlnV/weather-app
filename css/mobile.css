@@ -40,6 +40,18 @@
     width: 16px;
 }
 
+.details {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 25px;
+    margin-left: 0px;
+}
+
+
+
 .col-1 {
 
     margin-left: -30px;
